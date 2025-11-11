@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=1DF7D0&background=FFFFFF00&random=false&width=435&lines=I+am+Sujan+Mulla;Cyber+Security+Analysis
+)](https://github.com/mr-sam7781)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Cyber Security Skills.<br>👯 I’m looking to collaborate on Real time projects<br>🤝 I’m looking for help with deep learning about python coding.<br>🌱 I’m currently learning CEH, VAPT.<br>💬 Ask me about Cyber security, Networking.<br>⚡ Fun fact I like work with team, by teamwork you can get more knowledge.
 
